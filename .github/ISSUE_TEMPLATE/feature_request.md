@@ -9,13 +9,13 @@ assignees: ''
 
 **Use this template only as far as it serves the purpose of the issue thread. This means, deleting sections or leaving them blank is justified if the information is unkown, doesn't apply or likely irrelevant. Delete any of the instructions below the headlines before posting the issue.**
 
-### Is your feature request related to a problem? Please describe.
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Is your feature request related to a problem?
+A clear and concise description of what the problem is.
 
-### Describe the solution you'd like
+### Description
 A clear and concise description of what you want to happen.
 
-### Describe alternatives you've considered
+### Alternatives to consider
 A clear and concise description of any alternative solutions or features you've considered.
 
 ### Additional context
