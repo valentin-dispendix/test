@@ -19,11 +19,11 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+### Screenshots
+If applicable, add screenshots to help explain your problem. Make a screenshot, insert into paint, cut it, then copy from paint right into the issue.
+
 ### Expected behavior
 A clear and concise description of what you expected to happen.
-
-### Screenshots
-If applicable, add screenshots to help explain your problem. Use ctlr+v to insert them.
 
 ### General Setup
 - Assay Studio Version: 
